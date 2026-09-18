@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vihanga Nandun</h1>
 
 <h3 align="center">
-🚀 Software Engineer | AI/ML Enthusiast 🤖
+🚀 Software Engineer | <h5>AI/ML Enthusiast</h5> 🤖
 </h3>
 
 <p align="center">
